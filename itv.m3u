@@ -343,3 +343,7 @@ https://pool.anison.fm/AniSonFM(320)
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/tomorrowland/picture?width=200&height=200" tvg-name="Tomorrowland Radio",Tomorrowland Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.m3u8
+#EXTINF:-1 tvg-id="Japanisu Radio - J-Music & Beyond" tvg-name="Japanisu Radio - J-Music & Beyond" group-title="radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/109354.v25.png", Japanisu Radio - J-Music & Beyond
+https://listen.japanisu.com/listen/japanisu/radio.mp3
+#EXTINF:-1 tvg-id="Ruta Citypop" tvg-name="Ruta Citypop" group-title="radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/131790.v3.png", Ruta Citypop
+https://stream.zeno.fm/uenn4pspky8uv
