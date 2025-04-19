@@ -347,3 +347,5 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIO
 https://listen.japanisu.com/listen/japanisu/radio.mp3
 #EXTINF:-1 tvg-id="Ruta Citypop" tvg-name="Ruta Citypop" group-title="radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/131790.v3.png", Ruta Citypop
 https://stream.zeno.fm/uenn4pspky8uv
+#EXTINF:-1 tvg-id="Radio EDW" tvg-name="Radio EDW" group-title="radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/131790.v3.png", Radio EDW
+https://paneltv.online:2020/stream/8212
