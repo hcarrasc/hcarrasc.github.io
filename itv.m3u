@@ -1,8 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="NACIONALES" tvg-id="0101" tvg-logo="https://normielista.online/Logos/telecanal.png",Telecanal
-https://normielista.stream/play/klMwaOOaSS28JOCUzEZ9hjEmf_sEG9fqYrz2JF8bk2u0k1tK24IJ3X5otHvKaRxg/m3u8
 #EXTINF:-1 group-title="NACIONALES" tvg-id="0102" tvg-logo="https://normielista.online/Logos/la_red.png",La Red
 https://normielista.stream/play/klMwaOOaSS28JOCUzEZ9hjEmf_sEG9fqYrz2JF8bk2tjMdQg1MaHvxd4uYtt8T4V/m3u8
 #EXTINF:-1 group-title="NACIONALES" tvg-id="0103" tvg-logo="https://normielista.online/Logos/tv_mas.png",TV+
@@ -15,24 +13,22 @@ https://normielista.stream/play/klMwaOOaSS28JOCUzEZ9hjEmf_sEG9fqYrz2JF8bk2vYa3Zx
 https://normielista.stream/play/klMwaOOaSS28JOCUzEZ9hjEmf_sEG9fqYrz2JF8bk2tRqU6D9GzQRMPmTdDVG0WX/m3u8
 #EXTINF:-1 group-title="NACIONALES" tvg-id="0107" tvg-logo="https://normielista.online/Logos/canal_13.png",Canal 13
 https://normielista.stream/play/klMwaOOaSS28JOCUzEZ9hjEmf_sEG9fqYrz2JF8bk2ui22xEaR4vM66ceHLSf5OD/m3u8
+#EXTINF:-1 group-title="NACIONALES" tvg-id="0301" tvg-logo="https://normielista.online/Logos/ntv.png",NTV
+https://normielista.stream/play/klMwaOOaSS28JOCUzEZ9hjEmf_sEG9fqYrz2JF8bk2tFfPUn29hIe5APhHNbUnS_/m3u8
+#EXTINF:-1 group-title="NACIONALES" tvg-id="0109" tvg-logo="https://normielista.online/Logos/mega2.png",Mega 2
+https://normielista.stream/play/klMwaOOaSS28JOCUzEZ9hjEmf_sEG9fqYrz2JF8bk2smCEpSrEFfVoZXUnmSyvIi/m3u8
+#EXTINF:-1 tvg-id="319" tvg-name="Atacama Noticias TV" tvg-logo="https://cdn.m3u.cl/logo/319_Atacama_Noticias_TV.png", Atacama Noticias TV
+https://v2.tustreaming.cl/atacamanoticias/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="NACIONALES" tvg-id="0202" tvg-logo="https://normielista.online/Logos/cnn_chile.png",CNN Chile
 https://normielista.stream/play/klMwaOOaSS28JOCUzEZ9hjEmf_sEG9fqYrz2JF8bk2vVr0Fr9oNh7ou5USgXkYag/m3u8
+#EXTINF:-1 tvg-id="448" tvg-name="TVN 24 Horas" tvg-logo="https://cdn.m3u.cl/logo/448_TVN_24_Horas.png", TVN 24 Horas
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="NACIONALES" tvg-id="0208" tvg-logo="https://normielista.online/Logos/meganoticias.png",Meganoticias Ahora
 https://normielista.stream/play/klMwaOOaSS28JOCUzEZ9hjEmf_sEG9fqYrz2JF8bk2vr4FtUKp9tQUhYBYrOwW1-/m3u8
 #EXTINF:-1 group-title="NACIONALES" tvg-id="0207" tvg-logo="https://normielista.online/Logos/chv_noticias.png",Canal CHV Noticias
 https://normielista.stream/play/klMwaOOaSS28JOCUzEZ9hjEmf_sEG9fqYrz2JF8bk2sFU5g8id3aORo-l4VVbI5f/m3u8
 #EXTINF:-1 group-title="NACIONALES" tvg-id="0214" tvg-logo="https://normielista.online/Logos/t13_en_vivo.png",T13 en vivo
 https://normielista.stream/play/klMwaOOaSS28JOCUzEZ9hjEmf_sEG9fqYrz2JF8bk2sRl4_ewmxIBr5A_Vbb2KDi/m3u8
-#EXTINF:-1 group-title="NACIONALES" tvg-id="0301" tvg-logo="https://normielista.online/Logos/ntv.png",NTV
-https://normielista.stream/play/klMwaOOaSS28JOCUzEZ9hjEmf_sEG9fqYrz2JF8bk2tFfPUn29hIe5APhHNbUnS_/m3u8
-#EXTINF:-1 group-title="NACIONALES" tvg-id="0109" tvg-logo="https://normielista.online/Logos/mega2.png",Mega 2
-https://normielista.stream/play/klMwaOOaSS28JOCUzEZ9hjEmf_sEG9fqYrz2JF8bk2smCEpSrEFfVoZXUnmSyvIi/m3u8
-#EXTINF:-1 group-title="NACIONALES" tvg-id="0115" tvg-logo="https://normielista.online/Logos/uchiletv.png",UChileTV
-https://normielista.stream/play/klMwaOOaSS28JOCUzEZ9hjEmf_sEG9fqYrz2JF8bk2uUfSiXpgBAU1aOWmXOBR5E/m3u8
-#EXTINF:-1 tvg-id="319" tvg-name="Atacama Noticias TV" tvg-logo="https://cdn.m3u.cl/logo/319_Atacama_Noticias_TV.png", Atacama Noticias TV
-https://v2.tustreaming.cl/atacamanoticias/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="448" tvg-name="TVN 24 Horas" tvg-logo="https://cdn.m3u.cl/logo/448_TVN_24_Horas.png", TVN 24 Horas
-https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="TVU" tvg-name="TVU" tvg-logo="https://i.imgur.com/XHChUjI.png", TVU Concepcion
 http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8?laope.m3u8
 #EXTINF:-1 tvg-id="422" tvg-name="Cooperativa" tvg-logo="https://cdn.m3u.cl/logo/422_Cooperativa.png",Cooperativa
@@ -43,8 +39,6 @@ https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5
 https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="424" tvg-name="ADN" tvg-logo="https://cdn.m3u.cl/logo/424_ADN.png",ADN Radio
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Newsy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/799px-Newsy_2021.svg.png",Newsy
-https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
 #EXTINF:-1 tvg-id="497" tvg-name="RT Español" tvg-logo="https://cdn.m3u.cl/logo/497_RT_Espanol.png", RT Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="YahooFinance.us" tvg-logo="https://i.imgur.com/43oHsHL.png", Yahoo! Finance
