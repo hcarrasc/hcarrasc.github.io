@@ -51,19 +51,14 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12108
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-name="BBC Food" tvg-logo="https://pbs.twimg.com/profile_images/1732426645535924224/hC9xdWOC_400x400.jpg" tvg-id="BBCFood.us",BBC Food
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://i.imgur.com/7DqgELX.png",KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1 tvg-id="Cchannel.kr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE92-jjpJp-X_dAoZXNq2OaoCvoArczjXOCg&s",C Channel
-https://ythls.armelin.one/channel/UC9Ac9DjBEmNqjAYxf8V1HPA.m3u8
+
+
 #EXTINF:-1 tvg-id="TBSTV.kr" tvg-logo="https://i.imgur.com/iOnWS6V.png",TBS Seoul
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png", El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-USBA300024TN" tvg-id="USBA300024TN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20240520T222706SQUARE.png" tvg-chno="1116",LiveNOW from FOX
 https://jmp2.uk/sam-USBA300024TN.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/arirangtv/picture?width=200&height=200" tvg-name="Arirang TV Korea YT",Arirang TV Korea YT
-https://www.youtube.com/live/4gGGVZOvbCs?si=zQXZxzOOFbCOtmC0
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/AlArabiya/picture?width=200&height=200" tvg-name="Al Arabiya Emiratos Árabes",Al Arabiya Emiratos Árabes AR
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
@@ -76,10 +71,6 @@ https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8?DVR
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1 tvg-id="TVE Internacional" tvg-logo="https://i.imgur.com/iODADvi.png",TVE Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" tvg-name="La 1",La 1
-https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" tvg-name="La 2",La 2
-https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" tvg-name="Atresplayer Mentes Inquietas",Atresplayer Mentes Inquietas
 https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
 #EXTINF:-1 tvg-id="CanalSurA.TV" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
@@ -92,26 +83,16 @@ https://tyt-samsungus.amagi.tv/playlist.m3u8
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV-4 中文国际（美） Ⓢ" tvg-logo="https://i.imgur.com/1TPiRqR.png" tvg-id="CCTV4America.cn",CCTV-4
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-#EXTINF:-1 tvg-name="CGTN English" tvg-logo="https://i.imgur.com/fMsJYzl.png" tvg-id="CGTN.cn",CGTN English
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png",CGTN Español
-https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="https://i.imgur.com/Poz3xfi.png",CGTN
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-id="CGTN Documentary" tvg-logo="https://i.imgur.com/Poz3xfi.png",CGTN Documentary
 https://0472.org/hls/cgtnd.m3u8
-#EXTINF:-1 channel-id="SamsungTVPlus-USAJ3504701A" tvg-id="USAJ3504701A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504701A_20240730T222515SQUARE.png" tvg-chno="2946",Documentary+
+#EXTINF:-1 channel-id="SamsungTVPlus-USAJ3504701A" tvg-id="USAJ3504701A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504701A_20240730T222515SQUARE.png",Documentary+
 https://jmp2.uk/sam-USAJ3504701A.m3u8
-#EXTINF:-1 tvg-name="GO-TV Channel" tvg-logo="https://i.imgur.com/xgjrAAn.png" tvg-id="GOTVCanale163.it",GO-TV Channel
-https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="FunRoads.us" tvg-logo="https://funroads.tv/wp-content/uploads/fun-roads-header-horizontal-1.png",Fun Roads TV
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/funroads_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Frikanalen" tvg-logo="https://i.imgur.com/rY3Owxl.png" tvg-id="Frikanalen.no",Frikanalen
 https://frikanalen.no/stream/index.m3u8
 #EXTINF:-1 tvg-id="MuseumTVFast" tvg-name="MuseumTVFast" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/66/FRBA3300064WS_20211110T010724.png", Museum TV Fast
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8
-#EXTINF:-1 tvg-id="Clarity" tvg-name="Clarity" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/10/USBA3800005NI_20220330T045012.png", Clarity 4K
-https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 #EXTINF:-1,Watchmojo
 https://watchmojo-1-es.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Adventure Earth
@@ -124,10 +105,6 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-lgkr/playlist.m3u8
 #EXTINF:-1,Travel XP ES
 https://travelxp-travelxp-5-es.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Travel XP
-https://travelxp-travelxp-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BBC_America_logo_2021.svg/572px-BBC_America_logo_2021.svg.png",BBC America East
-https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="415" tvg-name="Puranoticia" tvg-logo="https://cdn.m3u.cl/logo/415_Puranoticia.png",Puranoticia
 https://pnt.janusmedia.tv/hls/pnt.m3u8
 #EXTINF:-1 tvg-id="Planetary Radio" tvg-name="Planetary Radio" tvg-logo="https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x1200_crop_center-center_82_line/300998/planetary-radio-logo.jpg", Planetary Radio Stockholm
@@ -139,7 +116,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wonder-lgnl/p
 
 
 #EXTINF:-1 tvg-logo="https://normielista.online/images/chilevision.png" tvg-id="0106",Chilevisión
-https://normielista.com/chv
+https://normielista.stream/play/klMwaOOaSS28JOCUzEZ9hjEmf_sEG9fqYrz2JF8bk2tRqU6D9GzQRMPmTdDVG0WX/m3u8
 #EXTINF:-1 tvg-id="319" tvg-name="Atacama Noticias TV" tvg-logo="https://cdn.m3u.cl/logo/319_Atacama_Noticias_TV.png", Atacama Noticias TV
 https://v2.tustreaming.cl/atacamanoticias/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1054" tvg-name="T13" tvg-logo="https://cdn.m3u.cl/logo/1054_T13.png", T13
