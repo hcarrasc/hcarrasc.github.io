@@ -59,14 +59,10 @@ https://ythls.armelin.one/channel/UC9Ac9DjBEmNqjAYxf8V1HPA.m3u8
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png", El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tgla7/picture?width=200&height=200" tvg-name="La7 Italia",La7 Italia IT
-https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/RUVohf/picture?width=200&height=200" tvg-name="RÚV Islandia",RÚV Islandia
-https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-USBA300024TN" tvg-id="USBA300024TN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20240520T222706SQUARE.png" tvg-chno="1116",LiveNOW from FOX
 https://jmp2.uk/sam-USBA300024TN.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/arirangtv/picture?width=200&height=200" tvg-name="Arirang TV Korea",Arirang TV Korea EN
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+https://www.youtube.com/live/CJVBX7KI5nU?si=c8mRuHysBBEbkVb5
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/AlArabiya/picture?width=200&height=200" tvg-name="Al Arabiya Emiratos Árabes",Al Arabiya Emiratos Árabes AR
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ChannelNewsAsia/picture?width=200&height=200" tvg-name="Channel NewsAsia",Channel NewsAsia EN
