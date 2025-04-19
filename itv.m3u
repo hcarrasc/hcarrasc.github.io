@@ -99,7 +99,8 @@ https://cdn.nhkworld.jp/www11/nhkworld-tv/domestic/2003459/live.m3u8
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://normielista.online/Logos/senpai_tv.png",Senpai TV
+https://normielista.stream/play/klMwaOOaSS28JOCUzEZ9hjEmf_sEG9fqYrz2JF8bk2ujYgecVJdGcB7hsqEKaxYo/m3u8
 #EXTINF:-1 tvg-logo="https://www.animeonegai.com/assets/img/anime/general/nlogo.png", Canal Anime Onegai 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
 #EXTINF:-1 tvg-logo="https://www.animeonegai.com/assets/img/anime/general/nlogo.png", Canal Anime Onegai 2
@@ -339,6 +340,6 @@ http://perseus.shoutca.st:8803/stream
 #EXTINF:-1 tvg-id="AniSon.FM" tvg-name="AniSon.FM" group-title="radio" tvg-logo="https://en.anison.fm/images/logo_f.png", AniSon.FM
 https://pool.anison.fm/AniSonFM(320)
 #EXTINF:-1 tvg-id="Radio 538 Netherlands" tvg-name="Radio 538 Netherlands" group-title="radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/538_logo_2012.svg/1280px-538_logo_2012.svg.png", Radio 538 Netherlands
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3?dist=538_web&ttag=talpa_consent:0&gdpr=1&gdpr_consent=CP_SDSAP_SDSAAcABBENA2EwAAAAAEPgAChQGgQGQAKgAXABAADIAIkATABOADEAG4APwAgABGADjAHeAQgAi0BHAEdAJKAS4AnYBWQDOAIpAXmAvYBoAGCQBQALgEIAI4AlUBggAoSASABUAEAAMgAiABMAD8AO8AkoC8x0AwACoAIAAZABEACYAGIAPwA7wCLAEdAJKAvMhADACYAGIAd5KAKAEQAJgAYgB3gLzKQDAAKgAgABkAEQAJgAYgA_ADvAIsAR0AkoC8wA.YAAACHwAAAAA
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/tomorrowland/picture?width=200&height=200" tvg-name="Tomorrowland Radio",Tomorrowland Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.m3u8
