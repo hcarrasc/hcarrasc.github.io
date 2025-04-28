@@ -302,7 +302,7 @@ https://streamssl.radiodanz.com/live
 https://play.my105.ch/my105djradio.mp3
 #EXTINF:-1 tvg-id="Centreforce 883 Radio" tvg-name="Centreforce Radio" group-title="radio" tvg-logo="https://www.centreforceradio.com/wp-content/uploads/2023/12/Logo-SquareV3.jpg",Centreforce 883 Radio
 https://listen.centreforceradio.com/320
-#EXTINF:-1 tvg-id="Massive Radio" tvg-name="Massive Radio" group-title="radio" tvg-logo="https://www.massivedance.com/wp-content/uploads/2024/06/cropped-Massive-blue-white-logo-2.png",Massive Radio
+#EXTINF:-1 tvg-id="Massive Dance" tvg-name="Massive Dance" group-title="radio" tvg-logo="https://www.massivedance.com/wp-content/uploads/2024/06/cropped-Massive-blue-white-logo-2.png",Massive Dance
 https://kathy.torontocast.com:4405/stream?ver=819136
 
 #EXTINF:-1 tvg-id="Radio 538 Netherlands" tvg-name="Radio 538 Netherlands" group-title="radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/538_logo_2012.svg/1280px-538_logo_2012.svg.png", Radio 538 TV Netherlands 
