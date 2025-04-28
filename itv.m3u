@@ -296,7 +296,7 @@ https://stream.mmgmoldova.md:8443/dancefm
 https://dancestream.danceradiouk.com/stream/1/
 #EXTINF:-1 tvg-id="Electric FM" tvg-name="Electric FM" group-title="radio" tvg-logo="https://www.electricfm.com/images/electricfm-listen-live-logo.png",Electric FM
 https://live.electricfm.com/electricfm?nocache=10&_t=1745800193
-#EXTINF:-1 tvg-id="Radio Danz" tvg-name="Radio Danz" group-title="radio" tvg-logo="https://www.radiodanz.com/images/radio-danz-header-logo.svg",Radio Danz
+#EXTINF:-1 tvg-id="Radio Danz" tvg-name="Radio Danz" group-title="radio" tvg-logo="https://cdn-profiles.tunein.com/s97878/images/logod.png",Radio Danz
 https://streamssl.radiodanz.com/live
 #EXTINF:-1 tvg-id="My 105 Dj Radio" tvg-name="My 105 Dj Radio" group-title="radio" tvg-logo="https://www.my105.ch/typo3conf/ext/ep_template_my105/Resources/Public/Images/my105_logo_dj.png",My 105 Dj Radio
 https://play.my105.ch/my105djradio.mp3
