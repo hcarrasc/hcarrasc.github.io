@@ -300,6 +300,8 @@ https://live.electricfm.com/electricfm?nocache=10&_t=1745800193
 https://streamssl.radiodanz.com/live
 #EXTINF:-1 tvg-id="My 105 Dj Radio" tvg-name="My 105 Dj Radio" group-title="radio" tvg-logo="https://www.my105.ch/typo3conf/ext/ep_template_my105/Resources/Public/Images/my105_logo_dj.png",My 105 Dj Radio
 https://play.my105.ch/my105djradio.mp3
+#EXTINF:-1 tvg-id="Centreforce Radio" tvg-name="Centreforce Radio" group-title="radio" tvg-logo="https://www.centreforceradio.com/wp-content/uploads/2023/12/Logo-SquareV3.jpg",Centreforce Radio
+https://listen.centreforceradio.com/320
 
 #EXTINF:-1 tvg-id="Radio 538 Netherlands" tvg-name="Radio 538 Netherlands" group-title="radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/538_logo_2012.svg/1280px-538_logo_2012.svg.png", Radio 538 TV Netherlands 
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
