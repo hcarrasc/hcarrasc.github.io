@@ -295,12 +295,12 @@ https://stream.mmgmoldova.md:8443/dancefm
 #EXTINF:-1 tvg-id="Dance Radio UK" tvg-name="Dance Radio UK" group-title="radio" tvg-logo="https://danceradiouk.com/players/files/images/albumart/13040-DanceUK-300.jpg",Dance Radio UK
 https://dancestream.danceradiouk.com/stream/1/
 #EXTINF:-1 tvg-id="Electric FM" tvg-name="Electric FM" group-title="radio" tvg-logo="https://www.electricfm.com/images/electricfm-listen-live-logo.png",Electric FM
-https://live.electricfm.com/electricfm?nocache=10&_t=1745800193
-#EXTINF:-1 tvg-id="Radio Danz" tvg-name="Radio Danz" group-title="radio" tvg-logo="https://cdn-profiles.tunein.com/s97878/images/logod.png",Radio Danz
+https://live.electricfm.com/electricfm?nocache=5&_t=1745800193
+#EXTINF:-1 tvg-id="Radio Danz" tvg-name="Radio Danz" group-title="radio" tvg-logo="https://cdn-profiles.tunein.com/s97878/images/logod.png?t=638119130310000000",Radio Danz
 https://streamssl.radiodanz.com/live
 #EXTINF:-1 tvg-id="My 105 Dj Radio" tvg-name="My 105 Dj Radio" group-title="radio" tvg-logo="https://www.my105.ch/typo3conf/ext/ep_template_my105/Resources/Public/Images/my105_logo_dj.png",My 105 Dj Radio
 https://play.my105.ch/my105djradio.mp3
-#EXTINF:-1 tvg-id="Centreforce Radio" tvg-name="Centreforce Radio" group-title="radio" tvg-logo="https://www.centreforceradio.com/wp-content/uploads/2023/12/Logo-SquareV3.jpg",Centreforce Radio
+#EXTINF:-1 tvg-id="Centreforce 883 Radio" tvg-name="Centreforce Radio" group-title="radio" tvg-logo="https://www.centreforceradio.com/wp-content/uploads/2023/12/Logo-SquareV3.jpg",Centreforce 883 Radio
 https://listen.centreforceradio.com/320
 
 #EXTINF:-1 tvg-id="Radio 538 Netherlands" tvg-name="Radio 538 Netherlands" group-title="radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/538_logo_2012.svg/1280px-538_logo_2012.svg.png", Radio 538 TV Netherlands 
