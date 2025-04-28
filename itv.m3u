@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 group-title="NACIONALES" tvg-id="0102" tvg-logo="https://normielista.online/Logos/la_red.png",La Red
 https://normielista.stream/play/klMwaOOaSS28JOCUzEZ9hjEmf_sEG9fqYrz2JF8bk2tjMdQg1MaHvxd4uYtt8T4V/m3u8
 #EXTINF:-1 group-title="NACIONALES" tvg-id="0103" tvg-logo="https://normielista.online/Logos/tv_mas.png",TV+
@@ -95,23 +94,6 @@ http://iptv.prosto.tv:7000/ch332/video.m3u8
 http://iptv.prosto.tv:7000/ch321/video.m3u8
 #EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00307.jpg",Relaxon
 http://iptv.prosto.tv:7000/ch317/video.m3u8
-#EXTINF:-1 tvg-id="NBCLX.us" tvg-logo="https://assets-global.website-files.com/5e41ab62d7f24061251f1f16/5e98b882979fdc179db64d88_nbclx.jpg",NBCLX
-https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
-#EXTINF:-1,5 Minute Crafts Spanish (CL)
-https://amg02051-soulpublishing-amg02051c3-lg-cl-584.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsspanish-lgcl/playlist.m3u8
-#EXTINF:-1,123 Go Spanish (CL)
-https://amg02051-soulpublishing-amg02051c3-lg-cl-584.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123gospanish-lgcl/playlist.m3u8
-#EXTINF:-1 tvg-id="TheBobRossChannel.us",The Bob Ross Channel
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bobross-cineverse/playlist.m3u8
-#EXTINF:-1 tvg-id="bonappetit.us" tvg-logo="https://variety.com/wp-content/uploads/2020/10/bon-appetit-logo.png?w=880&h=495&crop=1&resize=450%2C253",bon appétit
-https://bonappetit-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cocinafamiliarjr/picture?width=200&height=200" tvg-name="Cocina Familiar",Cocina Familiar
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12108
-#EXTINF:-1 tvg-id="PlutoTVCocina.es",Pluto TV Cocina España
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-name="BBC Food" tvg-logo="https://pbs.twimg.com/profile_images/1732426645535924224/hC9xdWOC_400x400.jpg" tvg-id="BBCFood.us",BBC Food
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
 
 #EXTINF:-1 tvg-id="TBSTV.kr" tvg-logo="https://i.imgur.com/iOnWS6V.png",TBS Seoul
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
@@ -119,14 +101,12 @@ https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-USBA300024TN" tvg-id="USBA300024TN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20240520T222706SQUARE.png" tvg-chno="1116",LiveNOW from FOX
 https://jmp2.uk/sam-USBA300024TN.m3u8
-
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/AlArabiya/picture?width=200&height=200" tvg-name="Al Arabiya Emiratos Árabes",Al Arabiya Emiratos Árabes AR
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ChannelNewsAsia/picture?width=200&height=200" tvg-name="Channel NewsAsia",Channel NewsAsia EN
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Medi1TV/picture?width=200&height=200" tvg-name="Medi1 TV Marruecos",Medi1 TV Marruecos
 https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8?DVR
-
 #EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" tvg-name="Negocios TV",Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1 tvg-id="TVE Internacional" tvg-logo="https://i.imgur.com/iODADvi.png",TVE Internacional
