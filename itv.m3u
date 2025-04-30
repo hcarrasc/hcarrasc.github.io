@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="",test
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 #EXTINF:-1 tvg-logo="https://normielista.online/Logos/senpai_tv.png",Senpai TV
 https://normielista.stream/play/klMwaOOaSS28JOCUzEZ9hjEmf_sEG9fqYrz2JF8bk2ujYgecVJdGcB7hsqEKaxYo/m3u8
