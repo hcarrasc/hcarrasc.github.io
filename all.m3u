@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/BG47510/tube/refs/heads/main/lemedia.m3u8
 https://tvradiozap.eu/tools/mng-m3u8.php/936.1/60/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR
 https://euronews-live-fre-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6564/bitok/e/26032/euronews-fr.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/drk4BWw/tv5inf.png",TV5MONDE INFO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/drk4BWw/tv5inf.png",TV5MONDE
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 FR
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
