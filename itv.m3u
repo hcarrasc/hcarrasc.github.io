@@ -36,7 +36,7 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
 #EXTINF:-1 tvg-id="1300" tvg-name="Moni TV" tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png", Moni TV
 https://tv.arkeo.cl:19360/8134/8134.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="Radio 538 Netherlands" tvg-name="Radio 538 Netherlands" group-title="radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/538_logo_2012.svg/1280px-538_logo_2012.svg.png", Radio 538 TV Netherlands 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/538_logo_2012.svg/1280px-538_logo_2012.svg.png", Radio 538 TV Netherlands 
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/HMbjzs85O0Si8L_WfZ6lv_HiAT6QRS4bu47NE9Uxt6BlXp6kakuztV6kb5C2nbd-hKnh8qVr4A=s200" tvg-name="RU.TV Rusia",RU.TV Rusia
 https://hls-03-video.webcaramba.com/rutv/live.m3u8
