@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="",Ñublevision
-https://tv.arkeo.cl:1936/nublevision/nublevision/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Canal 9 Bio-Bio
-https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Dance FM
-https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://normielista.online/Logos/senpai_tv.png",Senpai TV
 https://normielista.stream/play/klMwaOOaSS28JOCUzEZ9hjEmf_sEG9fqYrz2JF8bk2ujYgecVJdGcB7hsqEKaxYo/m3u8
@@ -111,6 +107,10 @@ http://rtmp.one.by:2300
 #EXTINF:0 group-title="Музыка"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/perviy_muzikalnii_en.png",Первый Музыкальный (int)
 #EXTGRP:Музыка
 http://rtmp.one.by:1300/
+#EXTINF:-1 tvg-logo="",Dance FM
+https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="",Spectrum Channel
+https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
 
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="3411" tvg-logo="https://normielista.online/Logos/espn.png",ESPN
@@ -148,9 +148,18 @@ https://normielista.stream/play/klMwaOOaSS28JOCUzEZ9hjEmf_sEG9fqYrz2JF8bk2tFfPUn
 https://normielista.stream/play/klMwaOOaSS28JOCUzEZ9hjEmf_sEG9fqYrz2JF8bk2smCEpSrEFfVoZXUnmSyvIi/m3u8
 #EXTINF:-1 tvg-id="TVU" tvg-name="TVU" tvg-logo="https://i.imgur.com/XHChUjI.png", TVU Concepcion
 http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8?laope.m3u8
+#EXTINF:-1 tvg-logo="",UCV
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="",UATV Temuco
+https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="Antofagasta TV" tvg-logo="https://cdn.m3u.cl/logo/71_Antofagasta_TV.png", Antofagasta TV
 https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8?PlaylistM3UCL
-
+#EXTINF:-1 tvg-logo="",Ñublevision
+https://tv.arkeo.cl:1936/nublevision/nublevision/playlist.m3u8
+#EXTINF:-1 tvg-logo="",Canal 9 Bio-Bio
+https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="",TV Senado Chile
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-id="319" tvg-name="Atacama Noticias TV" tvg-logo="https://cdn.m3u.cl/logo/319_Atacama_Noticias_TV.png", Atacama Noticias TV
 https://v2.tustreaming.cl/atacamanoticias/index.m3u8?PlaylistM3UCL
