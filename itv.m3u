@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="",canal 9 Bio-Bio
+#EXTINF:-1 tvg-logo="",Ñublevision
+https://tv.arkeo.cl:1936/nublevision/nublevision/playlist.m3u8
+#EXTINF:-1 tvg-logo="",Canal 9 Bio-Bio
 https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="",Dance FM
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
