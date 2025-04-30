@@ -129,6 +129,8 @@ https://normielista.stream/play/klMwaOOaSS28JOCUzEZ9hjEmf_sEG9fqYrz2JF8bk2sNvZDb
 https://normielista.stream/play/klMwaOOaSS28JOCUzEZ9hjEmf_sEG9fqYrz2JF8bk2vMrdtPf-diwfz5NmFuo-s-/m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="0409" tvg-logo="https://normielista.online/Logos/tyc.png",TyC Sports (Latinoamérica)
 https://normielista.stream/play/klMwaOOaSS28JOCUzEZ9hjEmf_sEG9fqYrz2JF8bk2veY6xEmniWD-0tD8z9K4pN/m3u8
+#EXTINF:-1 tvg-logo="",RBTV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 group-title="NACIONALES" tvg-id="0102" tvg-logo="https://normielista.online/Logos/la_red.png",La Red
 https://normielista.stream/play/klMwaOOaSS28JOCUzEZ9hjEmf_sEG9fqYrz2JF8bk2tjMdQg1MaHvxd4uYtt8T4V/m3u8
