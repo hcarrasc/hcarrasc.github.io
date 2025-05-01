@@ -339,7 +339,7 @@ https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5j6DZrt/20mn.png",20 MINUTES TV IDF
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 #EXTINF:-1 tvg-logo="",NipponTV
-https://tv.ensonhaber.com/tv24/tv24.m3u8
+https://n24-cdn-live-x.ntv.co.jp/ch01/index_Low.m3u8
 
 #EXTINF:-1 group-title="8. Cultura 📘",--- | Cultura 📘 | ---
 https://blank
