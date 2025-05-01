@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="1. Anime",--- | Anime 🇯🇵 / E-Sports 🎮 | ---
+#EXTINF:-1 group-title="1. Anime",--- | Anime 🎌 | ---
 https://blank
 
 #EXTINF:-1 tvg-logo="https://normielista.online/Logos/senpai_tv.png",Senpai TV
@@ -307,7 +307,7 @@ https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 
 
-#EXTINF:-1 group-title="8. Cultura / Ciencia 📘",--- | Cultura / Ciencia 📘 | ---
+#EXTINF:-1 group-title="8. Cultura / Ciencia 📘",--- | Cultura 📘 | ---
 https://blank
 
 #EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00505.jpg",Пляж
@@ -334,7 +334,7 @@ https://travelxp-travelxp-5-es.lg.wurl.tv/playlist.m3u8
 http://radiostreamone.mine.nu:80/PlanetaryRadio
 
 
-#EXTINF:-1 group-title="9. Radio Jpop",--- | Radio Jpop | ---
+#EXTINF:-1 group-title="9. Radio Jpop",--- | Radio Jpop 🇯🇵 | ---
 https://blank
 
 #EXTINF:-1 tvg-id="Radio inside" tvg-name="Radio inside" group-title="radio" tvg-logo="https://images.lesindesradios.fr/filters:format(webp)/filters:quality(100)/radios/inside/images/footerLogo_4wayQ1Yxy9.png", Radio Inside
@@ -356,7 +356,7 @@ https://listen.japanisu.com/listen/japanisu/radio.mp3
 #EXTINF:-1 tvg-id="Ruta Citypop" tvg-name="Ruta Citypop" group-title="radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/131790.v3.png",Ruta Citypop
 https://stream.zeno.fm/uenn4pspky8uv
 
-#EXTINF:-1 group-title="10. Radio Trance / Electronica",--- | Radio Trance / Electronica | ---
+#EXTINF:-1 group-title="10. Radio Trance / Electronica",--- | Radio Electronica 🎹 | ---
 https://blank
 
 #EXTINF:-1 tvg-id="1Mix Radio" tvg-name="1Mix Radio" group-title="radio" tvg-logo="https://www.radio.es/images/broadcasts/7e/19/11138/c300.png", 1Mix Radio 320
