@@ -146,6 +146,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D1Djbfj/tdp.jpg",TVE TDP
 https://d2a02gfcid1k4a.cloudfront.net/Teledeporte_ES.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LR2KqPJ/dbaispt.png",DUBAI SPORTS 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="4. Chile",--- | Chile 🇨🇱 | ---
 https://blank
@@ -210,6 +212,8 @@ https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea
 #EXTINF:-1 group-title="6. Noticias Mundo",--- | Noticias Mundo 🌎 | ---
 https://blank
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png",CNN INT
+https://dqmhiwgbe98iq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1e8xhm2nv4xdw/index.m3u8
 #EXTINF:-1 tvg-logo="https://normielista.online/Logos/dnews.png",DNews
 https://normielista.stream/play/klMwaOOaSS28JOCUzEZ9hjEmf_sEG9fqYrz2JF8bk2ufd8EIby1JT3Jz9Z_AneDY/m3u8
 #EXTINF:-1 tvg-id="497" tvg-name="RT Español" tvg-logo="https://cdn.m3u.cl/logo/497_RT_Espanol.png", RT Español
@@ -227,8 +231,6 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-id="1113" tvg-name="Aljazeera English" tvg-logo="https://cdn.m3u.cl/logo/1113_Aljazeera_English.png" tvg-name="Al Jazeera Qatar", Aljazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="IndiaToday.in" tvg-logo="https://i.imgur.com/koFYddE.png",India Today
-https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCNewsNorthAmerica.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-id="504" tvg-name="CBS News" tvg-logo="https://cdn.m3u.cl/logo/504_CBS_News.png", CBS News
@@ -241,7 +243,9 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://normielista.stream/play/klMwaOOaSS28JOCUzEZ9hjEmf_sEG9fqYrz2JF8bk2sxtyiJpF0lbP709OvG_QFG/m3u8
 #EXTINF:-1,NBC Los Angeles News
 https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 channel-id="SamsungTVPlus-USBA300024TN" tvg-id="USBA300024TN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20240520T222706SQUARE.png" tvg-chno="1116",LiveNOW from FOX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FxZYHhM/cnbc.jpg",CNBC NEWS
+https://new.cache-stream.workers.dev/stream/UCvJJ_dzjViJCoLf5uKUTwoA/live.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20240520T222706SQUARE.png",LiveNOW from FOX
 https://jmp2.uk/sam-USBA300024TN.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/AlArabiya/picture?width=200&height=200" tvg-name="Al Arabiya Emiratos Árabes",Al Arabiya Emiratos Árabes AR
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
@@ -251,6 +255,26 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS
 https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-ios-fhd-clair/cnews-clair-hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 EN
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/94BB1cD/indiatod.jpg",INDIA TODAY
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/prZ8kjdR/Wion.png",WION NEWS INDIA
+https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2YKQ7bR9/newsworld.jpg",NEWS WORLD
+https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q0FfqdV/Globalnews.png",GLOBAL NEWS
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vt0XZKf/Cbcnews.png",CBC NEWS
+https://d36tuf8zz9b2bm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hfw6opvomwxih/CBC_News_International.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xGG27kS/raiit.png",RAI NEWS 24
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA NEWS
+https://royatv-live.daioncdn.net/royatv/royatv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0yytb9K/yementoday.png",YEMEN TODAY
+https://video.yementdy.tv/hls/yementoday.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",i24 NEWS EN
+https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
 
 #EXTINF:-1 group-title="7. Mundo",--- | Mundo 🌎 | ---
 https://blank
@@ -285,9 +309,9 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" tvg-name="Atresplayer Mentes Inquietas",Atresplayer Mentes Inquietas
 https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
-#EXTINF:-1 tvg-id="CanalSurA.TV" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
 https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
-#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png",Newsmax
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png",Newsmax
 https://newsmax-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="BX1" tvg-logo="https://i.imgur.com/YjKqWru.png" tvg-id="BX1.be",BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
@@ -297,8 +321,8 @@ https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-id="CGTN Documentary" tvg-logo="https://i.imgur.com/Poz3xfi.png",CGTN Documentary
 https://0472.org/hls/cgtnd.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/506_Arirang.png", Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rtqXSWm/arirang.png",ARIRANG World
+https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
 #EXTINF:-1,NHK Japon
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1,NHK World
@@ -307,7 +331,7 @@ https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 
 
-#EXTINF:-1 group-title="8. Cultura / Ciencia 📘",--- | Cultura 📘 | ---
+#EXTINF:-1 group-title="8. Cultura 📘",--- | Cultura 📘 | ---
 https://blank
 
 #EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00505.jpg",Пляж
