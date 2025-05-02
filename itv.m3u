@@ -187,16 +187,25 @@ https://tv.arkeo.cl:1936/nublevision/nublevision/playlist.m3u8
 https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="",Click TV
 https://v2.tustreaming.cl/clicktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="",Milodon TV
+https://video8.servidordevideo.net:3161/live/ynhpdikjlive.m3u8
+#EXTINF:-1 tvg-logo="https://elpinguino.com/assets/img/logo-v3.png",Pinguino TV
+https://redirector.dps.live/hls/pinguinotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://uchile.cl/dam/jcr:20e3bf2d-85b5-4698-bf35-65296717c568/UCHILE-TV.png",U Chile TV
+https://pantera1-100gb-cl-movistar.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
+
 
 #EXTINF:-1 group-title="5. Noticias Chile",--- | Noticias Chile 🇨🇱 | ---
 https://blank
 
+#EXTINF:-1 tvg-logo="",Canal 2 Noticias
+https://pantera1-100gb-cl-movistar.dps.live/canal2/canal2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="415" tvg-name="Puranoticia" tvg-logo="https://cdn.m3u.cl/logo/415_Puranoticia.png",Puranoticia
 https://pnt.janusmedia.tv/hls/pnt.m3u8
 #EXTINF:-1 tvg-logo="",TV Senado Chile
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/319_Atacama_Noticias_TV.png", Atacama Noticias TV
-https://v2.tustreaming.cl/atacamanoticias/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/319_Atacama_Noticias_TV.png", Polar TV
+https://stmv5.voxtvhd.com.br/radiopolar/radiopolar/master.m3u8
 #EXTINF:-1 tvg-logo="https://normielista.online/Logos/cnn_chile.png",CNN Chile
 https://normielista.stream/play/klMwaOOaSS28JOCUzEZ9hjEmf_sEG9fqYrz2JF8bk2vVr0Fr9oNh7ou5USgXkYag/m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/448_TVN_24_Horas.png", TVN 24 Horas
@@ -304,13 +313,11 @@ https://gitlab.com/movrey/movrel/-/raw/main/sexta.m3u8
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmGNS4w/tvcata.jpg",TV3 CATALUNYA INT
 https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png",CNN EN ESPAÑOL
-https://amg00803-amg00803c3-samsung-es-4975.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-samsunges/playlist.m3u8
-#EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png", El Trece
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png", El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1,NBCU Telemundo West
 https://nbcu-telemundowest-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TBSTV.kr" tvg-logo="https://i.imgur.com/iOnWS6V.png",TBS Seoul
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iOnWS6V.png",TBS Seoul
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" tvg-name="Negocios TV",Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
@@ -320,8 +327,6 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
 https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png",Newsmax
-https://newsmax-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="BX1" tvg-logo="https://i.imgur.com/YjKqWru.png" tvg-id="BX1.be",BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV-4 中文国际（美） Ⓢ" tvg-logo="https://i.imgur.com/1TPiRqR.png" tvg-id="CCTV4America.cn",CCTV-4
@@ -338,12 +343,12 @@ https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5j6DZrt/20mn.png",20 MINUTES TV IDF
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
-#EXTINF:-1 tvg-logo="",NipponTV
-https://n24-cdn-live-x.ntv.co.jp/ch01/index_Low.m3u8
+
 
 #EXTINF:-1 group-title="8. Cultura 📘",--- | Cultura 📘 | ---
 https://blank
-
+#EXTINF:-1,TSTV
+https://reflector.watchtstv.com/hls/livestream_hi/index.m3u8
 #EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00505.jpg",Пляж
 http://iptv.prosto.tv:7000/ch332/video.m3u8
 #EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00318.png",Stream City
