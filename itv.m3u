@@ -193,7 +193,8 @@ https://video8.servidordevideo.net:3161/live/ynhpdikjlive.m3u8
 https://redirector.dps.live/hls/pinguinotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://uchile.cl/dam/jcr:20e3bf2d-85b5-4698-bf35-65296717c568/UCHILE-TV.png",U Chile TV
 https://pantera1-100gb-cl-movistar.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="", Polar TV
+https://stmv5.voxtvhd.com.br/radiopolar/radiopolar/master.m3u8
 
 #EXTINF:-1 group-title="5. Noticias Chile",--- | Noticias Chile 🇨🇱 | ---
 https://blank
@@ -204,8 +205,6 @@ https://pantera1-100gb-cl-movistar.dps.live/canal2/canal2.smil/playlist.m3u8
 https://pnt.janusmedia.tv/hls/pnt.m3u8
 #EXTINF:-1 tvg-logo="",TV Senado Chile
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/319_Atacama_Noticias_TV.png", Polar TV
-https://stmv5.voxtvhd.com.br/radiopolar/radiopolar/master.m3u8
 #EXTINF:-1 tvg-logo="https://normielista.online/Logos/cnn_chile.png",CNN Chile
 https://normielista.stream/play/klMwaOOaSS28JOCUzEZ9hjEmf_sEG9fqYrz2JF8bk2vVr0Fr9oNh7ou5USgXkYag/m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/448_TVN_24_Horas.png", TVN 24 Horas
