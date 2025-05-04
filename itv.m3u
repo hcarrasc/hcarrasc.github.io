@@ -35,7 +35,7 @@ https://tv.arkeo.cl:19360/8134/8134.m3u8?PlaylistM3UCL
 https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
 
 #EXTINF:-1 group-title="2. Musica",--- | Música 🎧 | ---
-https://blank
+https://github.com/hcarrasc/sample-code/raw/refs/heads/master/raw/jump.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/538_logo_2012.svg/1280px-538_logo_2012.svg.png", Radio 538 TV Netherlands 
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
@@ -123,7 +123,7 @@ https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="3. Deporte",--- | Deporte 🏃‍♂️ | ---
-https://blank
+https://github.com/hcarrasc/sample-code/raw/refs/heads/master/raw/jump.mp4
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="3411" tvg-logo="https://normielista.online/Logos/espn.png",ESPN
 https://normielista.stream/play/klMwaOOaSS28JOCUzEZ9hjEmf_sEG9fqYrz2JF8bk2u6zzXPUTTFMhBO6ydWekHS/m3u8
@@ -173,7 +173,7 @@ https://ciner-live.ercdn.net/htspor/htspor.m3u8
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 
 #EXTINF:-1 group-title="4. Chile",--- | Chile 🇨🇱 | ---
-https://blank
+https://github.com/hcarrasc/sample-code/raw/refs/heads/master/raw/jump.mp4
 
 #EXTINF:-1 tvg-logo="https://normielista.online/Logos/la_red.png",La Red
 https://normielista.stream/play/klMwaOOaSS28JOCUzEZ9hjEmf_sEG9fqYrz2JF8bk2tjMdQg1MaHvxd4uYtt8T4V/m3u8
@@ -215,7 +215,7 @@ https://pantera1-100gb-cl-movistar.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 https://stmv5.voxtvhd.com.br/radiopolar/radiopolar/master.m3u8
 
 #EXTINF:-1 group-title="5. Noticias Chile",--- | Noticias Chile 🇨🇱 | ---
-https://blank
+https://github.com/hcarrasc/sample-code/raw/refs/heads/master/raw/jump.mp4
 
 #EXTINF:-1 tvg-logo="",Canal 2 Noticias
 https://pantera1-100gb-cl-movistar.dps.live/canal2/canal2.smil/playlist.m3u8
@@ -241,7 +241,7 @@ https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="6. Noticias Mundo",--- | Noticias Mundo 🌎 | ---
-https://blank
+https://github.com/hcarrasc/sample-code/raw/refs/heads/master/raw/jump.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS ES
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8
@@ -316,7 +316,7 @@ https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/p
 https://tv.ensonhaber.com/tv24/tv24.m3u8
 
 #EXTINF:-1 group-title="7. Mundo",--- | Mundo 🌎 | ---
-https://blank
+https://github.com/hcarrasc/sample-code/raw/refs/heads/master/raw/jump.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VM5vGBV/la1.jpg",TVE LA 1
 https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
@@ -367,7 +367,8 @@ https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 
 
 #EXTINF:-1 group-title="8. Cultura 📘",--- | Cultura 📘 | ---
-https://blank
+https://github.com/hcarrasc/sample-code/raw/refs/heads/master/raw/jump.mp4
+
 #EXTINF:-1,TSTV
 https://reflector.watchtstv.com/hls/livestream_hi/index.m3u8
 #EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00505.jpg",Пляж
@@ -395,7 +396,7 @@ http://radiostreamone.mine.nu:80/PlanetaryRadio
 
 
 #EXTINF:-1 group-title="9. Radio Jpop",--- | Radio Jpop 🇯🇵 | ---
-https://blank
+https://github.com/hcarrasc/sample-code/raw/refs/heads/master/raw/jump.mp4
 
 #EXTINF:-1 tvg-id="Radio inside" tvg-name="Radio inside" group-title="radio" tvg-logo="https://images.lesindesradios.fr/filters:format(webp)/filters:quality(100)/radios/inside/images/footerLogo_4wayQ1Yxy9.png", Radio Inside
 http://s03.diazol.hu:7230/320
@@ -417,7 +418,7 @@ https://listen.japanisu.com/listen/japanisu/radio.mp3
 https://stream.zeno.fm/uenn4pspky8uv
 
 #EXTINF:-1 group-title="10. Radio Trance / Electronica",--- | Radio Electronica 🎹 | ---
-https://blank
+https://github.com/hcarrasc/sample-code/raw/refs/heads/master/raw/jump.mp4
 
 #EXTINF:-1 tvg-id="1Mix Radio" tvg-name="1Mix Radio" group-title="radio" tvg-logo="https://www.radio.es/images/broadcasts/7e/19/11138/c300.png", 1Mix Radio 320
 http://fr2.1mix.co.uk:9000/320b
