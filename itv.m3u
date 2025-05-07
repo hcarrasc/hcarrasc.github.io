@@ -124,7 +124,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/can
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="",Antenne Kaerten
 https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="",Dasding 90.8
+https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
 
 #EXTINF:-1 group-title="3. Deporte",--- | Deporte 🏃‍♂️ | ---
 https://blank
