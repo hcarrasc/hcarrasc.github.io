@@ -101,19 +101,6 @@ http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-USBC3600008WY" tvg-id="USBC3600008WY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20240520T212914SQUARE.png" group-title="Music" tvg-chno="4418",Vevo Pop
 https://jmp2.uk/sam-USBC3600008WY.m3u8
-#EXTINF:0 group-title="Музыка"  tvg-id="europa-plus-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/europa_plus_tv.png",Europa Plus TV
-#EXTGRP:Музыка
-http://ott.server-iptv.live/453/video.m3u8?token=M4f082ab4c
-http://ott.server-iptv.live/461/video.m3u8?token=M4f082ab4c
-#EXTINF:0 group-title="Музыка"  tvg-id="la-minor" tvg-logo="http://cdn.server-iptv.live/logo/tv/la-minor-ru.png",Ля-минор
-#EXTGRP:Музыка
-http://ott.server-iptv.live/469/video.m3u8?token=M4f082ab4c
-#EXTINF:0 group-title="Музыка"  tvg-id="onemuz" tvg-logo="http://cdn.server-iptv.live/logo/tv/perviy_muzikalnii_ru.png",Первый Музыкальный
-#EXTGRP:Музыка
-http://rtmp.one.by:2300
-#EXTINF:0 group-title="Музыка"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/perviy_muzikalnii_en.png",Первый Музыкальный (int)
-#EXTGRP:Музыка
-http://rtmp.one.by:1300/
 #EXTINF:-1 tvg-logo="",Dance FM
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="",Spectrum Channel
