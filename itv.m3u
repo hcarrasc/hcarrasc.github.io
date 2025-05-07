@@ -239,7 +239,7 @@ https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/424_ADN.png",ADN Radio
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/424_ADN.png",Agricultura TV
+#EXTINF:-1 tvg-logo="https://www.radioagricultura.cl/_templates/desktop/includes/img/agricultura-alt.svg",Agricultura TV
 https://jireh-5-hls-video-cl-movistar.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/agceventos/agceventos.smil/playlist.m3u8?dpssid=b21739857903681ad3e987954&sid=ba5t1l1xb2568679112681ad454b99e3&ndvc=0
 
 #EXTINF:-1 group-title="6. Noticias Mundo",--- | Noticias Mundo 🌎 | ---
