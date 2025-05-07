@@ -241,8 +241,7 @@ https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.radioagricultura.cl/_templates/desktop/includes/img/agricultura-alt.svg",Agricultura TV
 https://jireh-5-hls-video-cl-movistar.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/agceventos/agceventos.smil/playlist.m3u8?dpssid=b21739857903681ad3e987954&sid=ba5t1l1xb2568679112681ad454b99e3&ndvc=0
-#EXTINF:-1 tvg-logo="https://www.duna.cl/tv/images/logo-duna-blanco.svg",Duna TV
-https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8?uid=lTG5TAOvx8bdu2wb5R04CbL9Fr4IfKih&sid=nj4UxB7myyC3Ut7FYUw0wfLvZaStyOgP&pid=Yxtk6hhgRmdSoNvLZYBQ8HixYcH3oQ07&an=screen&at=web-app&av=v6.0.162&ref=https%3A%2F%2Fwww.duna.cl%2F&res=636x358&without_cookies=false&listenerid=&dnt=true
+
 
 #EXTINF:-1 group-title="6. Noticias Mundo",--- | Noticias Mundo 🌎 | ---
 https://blank
@@ -316,8 +315,10 @@ https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/53
 https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_j8ztwihx/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ynxKwfdR/meganews.png",MEGA NEWS
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png",24 (backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png",24 Turquía
 https://tv.ensonhaber.com/tv24/tv24.m3u8
+#EXTINF:-1, CNN News 18
+https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
 
 #EXTINF:-1 group-title="7. Mundo",--- | Mundo 🌎 | ---
 https://blank
