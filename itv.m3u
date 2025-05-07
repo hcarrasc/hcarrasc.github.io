@@ -341,6 +341,9 @@ https://telemadrid-23-secure2.akamaized.net/master.m3u8
 https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png", El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 user-agent="iPhone",América TV
+#EXTVLCOPT:http-user-agent=iPhone
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 #EXTINF:-1,NBCU Telemundo West
 https://nbcu-telemundowest-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iOnWS6V.png",TBS Seoul
@@ -405,10 +408,6 @@ http://radiostreamone.mine.nu:80/PlanetaryRadio
 #EXTINF:-1 group-title="9. Radio Jpop",--- | Radio Jpop 🇯🇵 | ---
 https://blank
 
-#EXTINF:-1 tvg-id="Radio inside" tvg-name="Radio inside" group-title="radio" tvg-logo="https://images.lesindesradios.fr/filters:format(webp)/filters:quality(100)/radios/inside/images/footerLogo_4wayQ1Yxy9.png", Radio Inside
-http://s03.diazol.hu:7230/320
-#EXTINF:-1 tvg-id="Gradio.lv One" tvg-name="Gradio.lv One" group-title="radio" tvg-logo="https://gradio.lv/logo/only-g-without-gloss-web-200.png", Gradio.lv One
-http://stream.gradio.lv:80/gradio-one.mp3
 #EXTINF:-1 tvg-id="Radio alfa anime" tvg-name="Radio alfa anime" group-title="radio" tvg-logo="https://www.radioalfacanavese.it/wp-content/uploads/2021/02/alfa_sito.png", Radio alfa anime
 http://nrf1.newradio.it:10328/alfaanime
 #EXTINF:-1 tvg-id="Dream Radio Japan hits" tvg-name="Dream Radio Japan hits" group-title="radio" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/zfu8ctxmscmq.jpg", Dream Radio Japan hits
@@ -427,6 +426,10 @@ https://stream.zeno.fm/uenn4pspky8uv
 #EXTINF:-1 group-title="10. Radio Trance / Electronica",--- | Radio Electronica 🎹 | ---
 https://blank
 
+#EXTINF:-1 tvg-id="Radio inside" tvg-name="Radio inside" group-title="radio" tvg-logo="https://images.lesindesradios.fr/filters:format(webp)/filters:quality(100)/radios/inside/images/footerLogo_4wayQ1Yxy9.png", Radio Inside
+http://s03.diazol.hu:7230/320
+#EXTINF:-1 tvg-id="Gradio.lv One" tvg-name="Gradio.lv One" group-title="radio" tvg-logo="https://gradio.lv/logo/only-g-without-gloss-web-200.png", Gradio.lv One
+http://stream.gradio.lv:80/gradio-one.mp3
 #EXTINF:-1 tvg-id="1Mix Radio" tvg-name="1Mix Radio" group-title="radio" tvg-logo="https://www.radio.es/images/broadcasts/7e/19/11138/c300.png", 1Mix Radio 320
 http://fr2.1mix.co.uk:9000/320b
 #EXTINF:-1 tvg-id="Anima Amoris Trance" tvg-name="Anima Amoris Trance" group-title="radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/%C3%81nima_Estudios_Logo_2016b.png", Anima Amoris Trance
