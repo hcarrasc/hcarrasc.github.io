@@ -242,7 +242,7 @@ https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea
 #EXTINF:-1 tvg-logo="https://www.radioagricultura.cl/_templates/desktop/includes/img/agricultura-alt.svg",Agricultura TV
 https://jireh-5-hls-video-cl-movistar.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/agceventos/agceventos.smil/playlist.m3u8?dpssid=b21739857903681ad3e987954&sid=ba5t1l1xb2568679112681ad454b99e3&ndvc=0
 #EXTINF:-1 tvg-logo="https://www.duna.cl/tv/images/logo-duna-blanco.svg",Duna TV
-https://cl-a9-p-e-pt11.cdn.mdstrm.com/live-stream/67ed8a8d6db4af9a0188555c/publish/media_200.m3u8?aid=65ea0c645728c0087b186ba5&uid=lTG5TAOvx8bdu2wb5R04CbL9Fr4IfKih&sid=nj4UxB7myyC3Ut7FYUw0wfLvZaStyOgP&pid=Yxtk6hhgRmdSoNvLZYBQ8HixYcH3oQ07&ref=https%3A%2F%2Fwww.duna.cl%2F&without_cookies=false&listenerid=&dnt=true&es=cl-a9-p-e-pt11.cdn.mdstrm.com&ote=1746675660886&ot=eSdtTJLRlMK9RIXyhN1BEA&proto=https&pz=us
+https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8?uid=lTG5TAOvx8bdu2wb5R04CbL9Fr4IfKih&sid=nj4UxB7myyC3Ut7FYUw0wfLvZaStyOgP&pid=Yxtk6hhgRmdSoNvLZYBQ8HixYcH3oQ07&an=screen&at=web-app&av=v6.0.162&ref=https%3A%2F%2Fwww.duna.cl%2F&res=636x358&without_cookies=false&listenerid=&dnt=true
 
 #EXTINF:-1 group-title="6. Noticias Mundo",--- | Noticias Mundo 🌎 | ---
 https://blank
