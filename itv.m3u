@@ -33,16 +33,18 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
 https://tv.arkeo.cl:19360/8134/8134.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kDmhscZ/mgg.png",MGG E-SPORT
 https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
+#EXTINF:-1,Canal 8 Catacaos
+https://live.obslivestream.com/canal8/index.m3u8
 
 #EXTINF:-1 group-title="2. Musica",--- | Música 🎧 | ---
 https://blank
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/538_logo_2012.svg/1280px-538_logo_2012.svg.png", Radio 538 TV Netherlands 
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/HMbjzs85O0Si8L_WfZ6lv_HiAT6QRS4bu47NE9Uxt6BlXp6kakuztV6kb5C2nbd-hKnh8qVr4A=s200" tvg-name="RU.TV Rusia",RU.TV Rusia
-https://hls-03-video.webcaramba.com/rutv/live.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/QmusicNL/picture?width=200&height=200" tvg-name="QMusic Holanda",QMusic Holanda
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1 tvg-id="DanceFM.cl",Dance FM (720p)
+https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
 #EXTINF:-1 tvg-id="StingrayTheSpa.ca" tvg-logo="https://i.imgur.com/ywAN923.png",Stingray The Spa
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="cg" tvg-logo="https://i.imgur.com/ywAN923.png",CGTN SPA1
@@ -213,6 +215,12 @@ https://redirector.dps.live/hls/pinguinotv/playlist.m3u8
 https://pantera1-100gb-cl-movistar.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="", Polar TV
 https://stmv5.voxtvhd.com.br/radiopolar/radiopolar/master.m3u8
+#EXTINF:-1 tvg-id="IquiqueTV.cl",Iquique TV
+https://marine2.miplay.cl/arcatel/iquiquetv720/video.m3u8
+#EXTINF:-1 tvg-id="Tevex.cl",Tevex
+https://v4.tustreaming.cl/tevexinter/index.m3u8
+#EXTINF:-1 tvg-id="ULosLagosTV.cl",U Los Lagos TV
+http://tv.ulagos.cl/web/live.m3u8
 
 #EXTINF:-1 group-title="5. Noticias Chile",--- | Noticias Chile 🇨🇱 | ---
 https://blank
@@ -241,6 +249,8 @@ https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.radioagricultura.cl/_templates/desktop/includes/img/agricultura-alt.svg",Agricultura TV
 https://jireh-5-hls-video-cl-movistar.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/agceventos/agceventos.smil/playlist.m3u8?dpssid=b21739857903681ad3e987954&sid=ba5t1l1xb2568679112681ad454b99e3&ndvc=0
+#EXTINF:-1,Atacama Noticias
+https://v2.tustreaming.cl/atacamanoticias/index.m3u8
 
 
 #EXTINF:-1 group-title="6. Noticias Mundo",--- | Noticias Mundo 🌎 | ---
@@ -321,6 +331,8 @@ https://tv.ensonhaber.com/tv24/tv24.m3u8
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
 #EXTINF:-1,Canal E
 https://pantera1-100gb-cl-movistar.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+#EXTINF:-1,BBC News
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9f1a48db-9022-43d1-bb25-ba665285192f
 
 #EXTINF:-1 group-title="7. Mundo",--- | Mundo 🌎 | ---
 https://blank
@@ -373,13 +385,14 @@ https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 #EXTINF:-1,Gaki no Tsukai
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
-#EXTINF:-1,douyu24
-http://epg.112114.xyz/douyu/36337
+
 
 
 #EXTINF:-1 group-title="8. Cultura 📘",--- | Cultura 📘 | ---
 https://blank
 
+#EXTINF:-1 tvg-id="HiperconectadosTV.cl",Hiperconectados TV
+https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
 #EXTINF:-1,TSTV
 https://reflector.watchtstv.com/hls/livestream_hi/index.m3u8
 #EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00505.jpg",Пляж
@@ -396,14 +409,16 @@ https://frikanalen.no/stream/index.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8
 #EXTINF:-1,Adventure Earth
 https://autentic-adventure-earth-1-nl.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Love Nature 4K" tvg-name="Love Nature 4K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3400003IP_20230131T052034SQUARE.png_20230131052035.png", Love Nature 4K
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3400003IP_20230131T052034SQUARE.png_20230131052035.png", Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1,Wild Earth
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-lgkr/playlist.m3u8
 #EXTINF:-1,Travel XP ES
 https://travelxp-travelxp-5-es.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Planetary Radio" tvg-name="Planetary Radio" tvg-logo="https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x1200_crop_center-center_82_line/300998/planetary-radio-logo.jpg", Planetary Radio Stockholm
+#EXTINF:-1 tvg-logo="https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x1200_crop_center-center_82_line/300998/planetary-radio-logo.jpg", Planetary Radio Stockholm
 http://radiostreamone.mine.nu:80/PlanetaryRadio
+#EXTINF:-1,Mundo geek
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6051201a0aa8a70007c24a2a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7fc7013e-e998-4f7a-8d41-f74aa6395d00
 
 
 #EXTINF:-1 group-title="9. Radio Jpop",--- | Radio Jpop 🇯🇵 | ---
