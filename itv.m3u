@@ -331,7 +331,7 @@ https://cdn.pixabay.com/video/2023/11/29/191325-890894257_large.mp4
 https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ssGmhbH/la2.jpg",TVE LA 2
 https://di2qeq48iv8ps.cloudfront.net/La_2_ES.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hYTkm8L/A3es.png",ANTENA 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hYTkm8L/A3es.png",ANTENA 3 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 
 https://gitlab.com/movrey/movrel/-/raw/main/antena3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hRs6WrH/C4es.png",CUATRO
 https://gitlab.com/movrey/movrel/-/raw/main/cuatro.m3u8
@@ -466,4 +466,23 @@ https://listen.centreforceradio.com/320
 https://kathy.torontocast.com:4405/stream?ver=819136
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/tomorrowland/picture?width=200&height=200" tvg-name="Tomorrowland Radio",Tomorrowland Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.m3u8
+
+#EXTINF:-1 group-title="10. Test 4K",--- | Test 4K | ---
+https://cdn.pixabay.com/video/2021/10/10/91562-629172467_large.mp4
+#EXTINF:-1 group-title="11. Test 4K",--- | Test 4K | ---
+https://cdn.pixabay.com/video/2024/05/22/213042_large.mp4
+#EXTINF:-1 group-title="12. Test 4K",--- | Test 4K | ---
+https://cdn.pixabay.com/video/2025/04/07/270507_large.mp4
+#EXTINF:-1 group-title="13. Test 4K",--- | Test 4K | ---
+https://cdn.pixabay.com/video/2025/04/13/271841_large.mp4
+#EXTINF:-1 group-title="14. Test 4K",--- | Test 4K | ---
+https://cdn.pixabay.com/video/2024/06/26/218309_large.mp4
+#EXTINF:-1 group-title="15. Test 4K",--- | Test 4K | ---
+https://cdn.pixabay.com/video/2023/07/24/173006-848232004_large.mp4
+#EXTINF:-1 group-title="16. Test 4K",--- | Test 4K | ---
+https://cdn.pixabay.com/video/2023/08/06/174821-852205978_large.mp4
+#EXTINF:-1 group-title="17. Test 4K",--- | Test 4K | ---
+https://cdn.pixabay.com/video/2024/03/18/204605-925184337_large.mp4
+#EXTINF:-1 group-title="18. Test 4K",--- | Test 4K | ---
+https://cdn.pixabay.com/video/2023/08/06/174821-852205978_large.mp4
 
