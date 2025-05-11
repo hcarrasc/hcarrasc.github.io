@@ -331,7 +331,7 @@ https://cdn.pixabay.com/video/2023/11/29/191325-890894257_large.mp4
 https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ssGmhbH/la2.jpg",TVE LA 2
 https://di2qeq48iv8ps.cloudfront.net/La_2_ES.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hYTkm8L/A3es.png",ANTENA 3 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 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hYTkm8L/A3es.png",ANTENA 3
 https://gitlab.com/movrey/movrel/-/raw/main/antena3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hRs6WrH/C4es.png",CUATRO
 https://gitlab.com/movrey/movrel/-/raw/main/cuatro.m3u8
