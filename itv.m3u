@@ -323,6 +323,8 @@ https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m
 https://pantera1-100gb-cl-movistar.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1,BBC News
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9f1a48db-9022-43d1-bb25-ba665285192f
+#EXTINF:-1,Press TV
+https://live.presstv.ir/hls/presstv.m3u8
 
 #EXTINF:-1 group-title="7. Mundo",--- | Mundo 🌎 | ---
 https://cdn.pixabay.com/video/2023/11/29/191325-890894257_large.mp4
@@ -466,23 +468,4 @@ https://listen.centreforceradio.com/320
 https://kathy.torontocast.com:4405/stream?ver=819136
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/tomorrowland/picture?width=200&height=200" tvg-name="Tomorrowland Radio",Tomorrowland Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.m3u8
-
-#EXTINF:-1 group-title="10. Test 4K",--- | Test 4K | ---
-https://cdn.pixabay.com/video/2021/10/10/91562-629172467_large.mp4
-#EXTINF:-1 group-title="11. Test 4K",--- | Test 4K | ---
-https://cdn.pixabay.com/video/2024/05/22/213042_large.mp4
-#EXTINF:-1 group-title="12. Test 4K",--- | Test 4K | ---
-https://cdn.pixabay.com/video/2025/04/07/270507_large.mp4
-#EXTINF:-1 group-title="13. Test 4K",--- | Test 4K | ---
-https://cdn.pixabay.com/video/2025/04/13/271841_large.mp4
-#EXTINF:-1 group-title="14. Test 4K",--- | Test 4K | ---
-https://cdn.pixabay.com/video/2024/06/26/218309_large.mp4
-#EXTINF:-1 group-title="15. Test 4K",--- | Test 4K | ---
-https://cdn.pixabay.com/video/2023/07/24/173006-848232004_large.mp4
-#EXTINF:-1 group-title="16. Test 4K",--- | Test 4K | ---
-https://cdn.pixabay.com/video/2023/08/06/174821-852205978_large.mp4
-#EXTINF:-1 group-title="17. Test 4K",--- | Test 4K | ---
-https://cdn.pixabay.com/video/2024/03/18/204605-925184337_large.mp4
-#EXTINF:-1 group-title="18. Test 4K",--- | Test 4K | ---
-https://cdn.pixabay.com/video/2023/08/06/174821-852205978_large.mp4
 
